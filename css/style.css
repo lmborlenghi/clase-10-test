@@ -17,3 +17,8 @@ h2{
     flex-direction: column;
     justify-content: flex-end;
 }
+
+
+.bg-body-tertiary {
+    background-color: rgb(83, 83, 196) !important;
+}
